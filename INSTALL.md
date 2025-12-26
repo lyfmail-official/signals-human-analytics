@@ -20,6 +20,7 @@ No database is required by default.
 📁 Folder Placement
 
 Place the `signals` directory anywhere inside your project:
+
 '''
 your-site/
 ├── signals/
