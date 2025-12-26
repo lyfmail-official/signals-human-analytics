@@ -21,14 +21,14 @@ No database is required by default.
 
 Place the `signals` directory anywhere inside your project:
 
-...
+```
 your-site/
 ├── signals/
 │ ├── core/
 │ ├── public/
 │ ├── config/
 │ └── storage/
-...
+```
 
 
 The `public` directory must be web-accessible.
