@@ -1,0 +1,19 @@
+{
+  "project": "Signals",
+  "maintainer": "LYF Mail",
+  "purpose": "Human traffic verification",
+  "data_collection": {
+    "cookies": false,
+    "fingerprinting": false,
+    "personal_data": false
+  },
+  "logging": {
+    "only_verified_humans": true,
+    "raw_ip_storage": false
+  },
+  "ai_policy": {
+    "ai_allowed": true,
+    "ai_counted_as_human": false
+  },
+  "version": "1.0"
+}
