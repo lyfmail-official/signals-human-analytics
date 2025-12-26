@@ -4,11 +4,14 @@ Human Traffic Verification
 
 A Technical & Ethical Whitepaper
 
-Version: 1.0
-Maintainer: LYF Mail
-Project: Signals — Human Analytics
-Website: [https://signals.lyfmail.com](https://signals.lyfmail.com)
+Version: 1.0 
 
+Maintainer: LYF Mail 
+
+Project: Signals — Human Analytics 
+
+Website: [https://signals.lyfmail.com](https://signals.lyfmail.com)
+ 
 1. Abstract
 
 Modern web analytics systems are increasingly unreliable due to automated traffic, AI agents, scrapers, headless browsers, and non-human interactions. At the same time, privacy regulations and ethical expectations demand the elimination of invasive tracking techniques.
