@@ -282,7 +282,7 @@ You are free to use, modify, and distribute it — including commercially. See [
 - **🐦 X / Twitter:** [@lyfmailcom](https://x.com/lyfmailcom)
 - **📘 Facebook:** [thelyfmail](https://www.facebook.com/thelyfmail)
 - **▶️ YouTube:** [LYF Mail](https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g)
-- **💼 LinkedIn:** [lyfmailcom](https://in.linkedin.com/in/lyfmailcom)
+- **💼 LinkedIn:** [lyf-mail](https://www.linkedin.com/company/lyf-mail)
 - **📧 Email:** contact@lyfmail.com
 - **🆘 Support:** [support.lyfmail.com](https://support.lyfmail.com)
 
